@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2c227d55-bf21-434a-b8ae-4a46dbe094e2}</ProjectGuid>
-    <RootNamespace>sum</RootNamespace>
+    <ProjectGuid>{c5435fd9-d03a-4d35-82b4-f7991fef85e1}</ProjectGuid>
+    <RootNamespace>perimeter</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="sum.cpp" />
+    <ClCompile Include="perimeter.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

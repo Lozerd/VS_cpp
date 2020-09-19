@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2c227d55-bf21-434a-b8ae-4a46dbe094e2}</ProjectGuid>
-    <RootNamespace>sum</RootNamespace>
+    <ProjectGuid>{2dcfab53-0fed-48e4-a06e-ee4d6b30eab9}</ProjectGuid>
+    <RootNamespace>float</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="sum.cpp" />
+    <ClCompile Include="float.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

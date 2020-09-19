@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2c227d55-bf21-434a-b8ae-4a46dbe094e2}</ProjectGuid>
-    <RootNamespace>sum</RootNamespace>
+    <ProjectGuid>{6ae6591a-cc83-4e4d-9d7b-290c611b8f41}</ProjectGuid>
+    <RootNamespace>ceil</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="sum.cpp" />
+    <ClCompile Include="ceil().cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
