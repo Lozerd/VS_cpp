@@ -1,0 +1,3 @@
+﻿  inversion.cpp
+H:\_Visual_Studio\C++\inversion\inversion\inversion.cpp(7,33): warning C4101: tmp: неиспользованная локальная переменная
+  inversion.vcxproj -> H:\_Visual_Studio\C++\inversion\Debug\inversion.exe

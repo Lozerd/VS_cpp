@@ -1,0 +1,2 @@
+﻿  Floating_pi.cpp
+H:\_Visual_Studio\C++\Floating_pi\Floating_pi\Floating_pi.cpp(12): error C4700: использована неинициализированная локальная переменная "pi"
